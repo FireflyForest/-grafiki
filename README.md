@@ -1,6 +1,9 @@
 Grafiki są na licencji: 
 Creative Commons Uznanie autorstwa - Użycie niekomercyjne - Bez Utworów Zależnych 4.0 Międzynarodowa Licencja Publiczna
+
 https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.pl
+ 
+![88x31](https://user-images.githubusercontent.com/96924328/147838362-7e44c6d2-e317-4772-815b-b9c242d7a17c.png)       
 
 treść:
 Paragraf 1 – Definicje.
@@ -94,3 +97,4 @@ Paragraf 8 – Wykładnia.
     Jeżeli jakiekolwiek postanowienie niniejszej Licencji Publicznej uważa się za nieskuteczne, będzie ono automatycznie, na ile to tylko możliwe, w jak najmniejszym, koniecznym stopniu przekształcone tak, aby stało się skuteczne. Jeżeli postanowienie takie nie może zostać przekształcone, zostanie ono unieważnione bez wpływu na skuteczność pozostałych postanowień niniejszej Licencji Publicznej.
     Żadne postanowienie niniejszej Licencji Publicznej nie będzie uchylone, ani żadne naruszenie jej postanowień dozwolone, bez wyrażonej dosłownie zgody Licencjodawcy.
     Niniejsza Licencja Publiczna nie stanowi, ani nie może być interpretowana jako ograniczenie lub zrzeczenie się jakichkolwiek przywilejów Licencjodawcy lub Licencjobiorcy, w tym immunitetów procesowych względem jakiejkolwiek władzy jurysdykcyjnej.
+
